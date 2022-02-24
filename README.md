@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahrAksn
-- 👀 I’m interested in Java and android softwar
+- 👀 I’m interested in Java and android software
 - 🌱 I’m currently learning Android studio
 - 💞️ I’m looking to collaborate on  Android  software
 - 📫 How to reach me ...
